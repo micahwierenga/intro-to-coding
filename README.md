@@ -6,6 +6,16 @@
 
 During the HTML section of this workshop, you'll need to choose which city or region you'd like to feature in your website. Here are the options:
 
+| [Atlanta](https://unruffled-shirley-c9ee5e.netlify.com/img/atlanta.jpg)  | [Chicago](https://unruffled-shirley-c9ee5e.netlify.com/img/chicago.jpg)  | [Hong Kong](https://unruffled-shirley-c9ee5e.netlify.com/img/hongkong.jpg)  |[New York](https://unruffled-shirley-c9ee5e.netlify.com/img/new-york.jpg)   |   |
+| [Austin](https://unruffled-shirley-c9ee5e.netlify.com/img/austin.jpg)  | [Dallas](https://unruffled-shirley-c9ee5e.netlify.com/img/dallas.jpg)  | [Santa Monica](https://unruffled-shirley-c9ee5e.netlify.com/img/la-santa-monica.jpg)  |[Northern Virginia](https://unruffled-shirley-c9ee5e.netlify.com/img/northernvirginia.jpg)   |   |
+| [Boston](https://unruffled-shirley-c9ee5e.netlify.com/img/boston.jpg)  | [Washington, DC](https://unruffled-shirley-c9ee5e.netlify.com/img/dc-washington.jpg)  | [London](https://unruffled-shirley-c9ee5e.netlify.com/img/london.jpg)  |[Orange County](https://unruffled-shirley-c9ee5e.netlify.com/img/orangecounty.jpg)   |   |
+| [Brisbane](https://unruffled-shirley-c9ee5e.netlify.com/img/brisbane.jpg)  | [Denver](https://unruffled-shirley-c9ee5e.netlify.com/img/denver.jpg)  |[Los Angeles](https://unruffled-shirley-c9ee5e.netlify.com/img/los-angeles.jpg)   |[Raleigh](https://unruffled-shirley-c9ee5e.netlify.com/img/raleigh.jpg)   |   |
+| [Brooklyn](https://unruffled-shirley-c9ee5e.netlify.com/img/brooklyn.jpg)  | [Geelong](https://unruffled-shirley-c9ee5e.netlify.com/img/geelong.jpg)  |[Melbourne](https://unruffled-shirley-c9ee5e.netlify.com/img/melbourne.jpg)   |[San Francisco](https://unruffled-shirley-c9ee5e.netlify.com/img/san-francisco.jpg)   |[San Jose](https://unruffled-shirley-c9ee5e.netlify.com/img/sanjose.jpg)
+[Seattle](https://unruffled-shirley-c9ee5e.netlify.com/img/seattle.jpg)
+[Singapore](https://unruffled-shirley-c9ee5e.netlify.com/img/singapore.jpg)
+[Sydney](https://unruffled-shirley-c9ee5e.netlify.com/img/sydney.jpg)
+[Toronto](https://unruffled-shirley-c9ee5e.netlify.com/img/toronto.jpg)   |
+
 * [Atlanta](https://unruffled-shirley-c9ee5e.netlify.com/img/atlanta.jpg)
 * [Austin](https://unruffled-shirley-c9ee5e.netlify.com/img/austin.jpg)
 * [Boston](https://unruffled-shirley-c9ee5e.netlify.com/img/boston.jpg)
