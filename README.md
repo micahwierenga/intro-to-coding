@@ -33,7 +33,7 @@ During the HTML section of this workshop, you'll need to choose which city or re
 * [Toronto](https://unruffled-shirley-c9ee5e.netlify.com/img/toronto.jpg)
 
 
-We will also use placeholder text. If you like, you can copy and paste this **Lorem Ipsum** content into your code:<br><br>
+We will also use placeholder text. If you like, you can copy and paste this **Lorem Ipsum** content into your code:<br>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
