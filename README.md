@@ -2,6 +2,15 @@
 
 # General Assembly: Intro to Coding
 
+## Setting up your file structure
+
+1. Create a folder called `code_along` on your desktop.
+2. Now open **Sublime Text** and either 1) drag the `code_along` folder anywhere in the black area of Sublime, or 2) click **File**, then **Open...**, then navigate to your desktop and select the `code_along` folder, then click the **Open** button.
+3. Right click on `code_along` and select **New File**. A new untitled file will open. Save that file (**File > Save**), naming it `index.html`.
+4. Right click on the `code_along` folder again and this time select **New Folder...** A field called **Folder Name** will open at the bottom of your screen. In that field, type `css` and hit **Enter**.
+5. Right click on the `css` folder and choose **New File**. Again, a new untitled document will appear. Save that file (**File > Save**), naming it `style.css`.
+6. Now click [here](./style.css). Paste the code that you see into your new `style.css` file.
+
 ## HTML
 
 During the HTML section of this workshop, you'll need to choose which city or region you'd like to feature in your website. Here are the options:
