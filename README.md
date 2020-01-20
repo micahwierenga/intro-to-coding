@@ -17,11 +17,11 @@ During the HTML section of this workshop, you'll need to choose which city or re
             <td><a href="https://unruffled-shirley-c9ee5e.netlify.com/img/brooklyn.jpg" target="_blank">Brooklyn</a></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td><a href="https://unruffled-shirley-c9ee5e.netlify.com/img/chicago.jpg" target="_blank">Chicago</a></td>
+            <td><a href="https://unruffled-shirley-c9ee5e.netlify.com/img/dallas.jpg" target="_blank">Dallas</a></td>
+            <td><a href="https://unruffled-shirley-c9ee5e.netlify.com/img/dc-washington.jpg" target="_blank">Washington, DC</a></td>
+            <td><a href="https://unruffled-shirley-c9ee5e.netlify.com/img/denver.jpg" target="_blank">Denver</a></td>
+            <td><a href="https://unruffled-shirley-c9ee5e.netlify.com/img/geelong.jpg" target="_blank">Geelong</a></td>
         </tr>
         <tr>
             <td></td>
